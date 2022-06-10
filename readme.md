@@ -1,9 +1,17 @@
-# My GitHub README
+## banner top
 
-Welcome to my README!
+<img src='image/banner.jpg' style="width:100%;object-fit:cover;border-radius:12px;">
 
-<div align="center">
-    <img src="image/example.svg" width="400" height="300" alt="css-in-readme">
+<div style="display:flex;align-items: center;justify-content: center;">
+<a href="https://www.facebook.com/profile.php?id=100024072759238" target="_blank" >
+<img src='image/facebook.svg' width="40">
+</a><a href="https://www.facebook.com/profile.php?id=100024072759238" target="_blank" >
+<img src='image/instagram.svg' width="40">
+</a><a href="https://www.facebook.com/profile.php?id=100024072759238" target="_blank" >
+<img src='image/tiktok.svg' width="40">
+</a><a href="https://www.facebook.com/profile.php?id=100024072759238" target="_blank" >
+<img src='image/youtube.svg' width="40">
+</a><a href="https://www.facebook.com/profile.php?id=100024072759238" target="_blank" >
+<img src='image/github.svg' width="40">
+</a>
 </div>
-
-<img src='https://github-readme-stats.vercel.app/api?username=2noScript&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false' width='100%'>

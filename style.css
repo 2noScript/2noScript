@@ -1,19 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,400&display=swap");
-abbr,
-acronym,
-blockquote,
-code,
-dir,
-kbd,
-listing,
-plaintext,
-q,
-samp,
-tt,
-var,
-xmp {
-  hyphens: none;
-}
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -61,6 +47,7 @@ a {
 .contact-item .contact-name {
   text-transform: uppercase;
   display: none;
+  color: #c91211;
 }
 .contact-item .contact-icon {
   display: flex;
