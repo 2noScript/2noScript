@@ -1,94 +1,9 @@
-<!-- add link -->
 <link
       rel="stylesheet"
       href="https://cdn.rawgit.com/2noScript/font-awesome/main/fontawesome-pro-5.13.0-web/css/all.min.css"
     />
-<style>
- @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,400&display=swap");
-* {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-  font-family: "Roboto", sans-serif;
-}
-html {
-font-size: 62.5%;
-}
-body {
-font-size: 1.6rem;
-}
-a {
-text-decoration: none;
-}
-:root {
---btn-border-radius: 12px;
-}
-</style>
-
-![Top banner](image/banner.jpg)
-
-<html lang="en">
-  <head>
-   
-<style>
-
-.contact {
-display: flex;
-align-items: center;
-justify-content: center;
-
-padding: 32px 0;
-}
-.contact-item {
-display: flex;
-justify-content: center;
-align-items: center;
-color: #ffffff;
-background-color: antiquewhite;
-border: 1px solid black;
-border-radius: var(--btn-border-radius);
-padding: 8px 8px;
-font-size: 1.4rem;
-font-weight: 600;
-}
-.contact-item:hover {
-cursor: pointer;
-}
-.contact-item + .contact-item {
-margin-left: 4px;
-}
-.contact-item .contact-name {
-text-transform: uppercase;
-display: none;
-}
-.contact-item .contact-icon {
-display: flex;
-justify-content: center;
-align-items: center;
-width: 36px;
-height: 36px;
-font-size: 3.2rem;
-
-}
-.contact-item.facebook {
-
-color: #1877f2;
-}
-.contact-item.instagram {
-
-color: #c535a3;
-}
-.contact-item.youtube {
-
-color: #c91211;
-}
-.contact-item.github {
-color: #000000;
-}
-</style>
-
-  </head>
-  <body>
+<link rel="stylesheet" href="./index.css" />
+   <img src='./image/banner.jpg'>
     <div class="contact">
       <a
         class="contact-item facebook"
@@ -121,7 +36,4 @@ color: #000000;
       >
         <div class="contact-icon"><i class="fab fa-github-square"></i></div>
         <span class="contact-name"> github </span>
-      </a>
-    </div>
-  </body>
-</html>
+      </a> </div>

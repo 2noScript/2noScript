@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,400&display=swap");
+abbr,
+acronym,
+blockquote,
+code,
+dir,
+kbd,
+listing,
+plaintext,
+q,
+samp,
+tt,
+var,
+xmp {
+  hyphens: none;
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  font-size: 1.6rem;
+}
+a {
+  text-decoration: none;
+}
+:root {
+  --btn-border-radius: 12px;
+}
+.contact {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background-color: black; */
+  padding: 32px 0;
+}
+.contact-item {
+  /* width: 120px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  background-color: antiquewhite;
+  border: 1px solid black;
+  border-radius: var(--btn-border-radius);
+  padding: 8px 8px;
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+.contact-item:hover {
+  cursor: pointer;
+}
+.contact-item + .contact-item {
+  margin-left: 4px;
+}
+.contact-item .contact-name {
+  text-transform: uppercase;
+  display: none;
+}
+.contact-item .contact-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 36px;
+  height: 36px;
+  font-size: 3.2rem;
+
+  /* padding: 0 4px 0 0; */
+}
+.contact-item.facebook {
+  /* background-color: #1877f2; */
+  color: #1877f2;
+}
+.contact-item.instagram {
+  /* background-color: #c535a3; */
+  color: #c535a3;
+}
+.contact-item.youtube {
+  /* background-color: #c91211; */
+  color: #c91211;
+}
+.contact-item.github {
+  color: #000000;
+}
