@@ -9,7 +9,7 @@
       href="https://cdn.rawgit.com/2noScript/font-awesome/main/fontawesome-pro-5.13.0-web/css/all.min.css"
     />
     <link rel="stylesheet" href="./style.css" />
-    <title>Document</title>
+   
   </head>
   <body>
     <div class="contact">
