@@ -4,20 +4,11 @@
       rel="stylesheet"
       href="https://cdn.rawgit.com/2noScript/font-awesome/main/fontawesome-pro-5.13.0-web/css/all.min.css"
     />
- <a
+ <a     style="display: flex;align-items: center; justify-content: center;border-radius:12px;border: 1px solid black;background-color: antiquewhite;padding: 8px 8px;width:40px;heigth:40px"
         class="contact-item facebook"
+        target="_blank"
         href="https://www.facebook.com/profile.php?id=100024072759238"
-        target="_blank"
       >
-        <div class="contact-icon"><img src='./image/facebook.svg'></div>
-        <span class="contact-name"> facebook </span>
-      </a>
-      <a
-        class="contact-item instagram"
-        href="https://www.instagram.com/2noscript/"
-        target="_blank"
-      >
-        <div class="contact-icon"><i class="fab fa-instagram"></i></div>
-        <span class="contact-name"> instagram </span>
+        <img src='./image/facebook.svg' style="object-fit: cover;width: 40px;">      
 </a>
 </div>
