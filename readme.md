@@ -9,7 +9,7 @@
         href="https://www.facebook.com/profile.php?id=100024072759238"
         target="_blank"
       >
-        <div class="contact-icon"><i class="fab fa-facebook-square"></i></div>
+        <div class="contact-icon"><img src='./image/facebook.svg'></div>
         <span class="contact-name"> facebook </span>
       </a>
       <a
