@@ -1,4 +1,8 @@
 <img src='./image/text.svg' width="100%" alt="what">
+<div align="center">
+<img src='./image/alias.svg' width="320px">
+</div>
+
 <!-- <img src='image/banner.jpg' alt="top banner"> -->
 
 <div align="center" color="black">

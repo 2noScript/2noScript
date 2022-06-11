@@ -1,12 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <svg viewBox="0 0 1200 220" width="" height="" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-                .container{
-                  min-height:220px;
-                <!-- width:100%; -->
-                border-radius:12px;
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container{
+                   min-height:220px;
+                    border-radius:12px;
                     display: flex;
                     justify-content: center;
                     align-items: center;
@@ -14,8 +13,6 @@
                     padding: 0 12px;
                     box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
                     border: 1px solid black;
-
-
                 }
                 .animate-charcter
                 {
@@ -49,11 +46,11 @@
                   }
                  
                 }
-            </style>
-            <!-- <h1>HELLO WORLD!</h1> -->
-            <div class="container">
-                <div class="animate-charcter">Chiếc  lá nho nhỏ</div>
-            </div>
-        </div>
-    </foreignObject>
+      </style>
+      <!-- <h1>HELLO WORLD!</h1> -->
+      <div class="container">
+        <div class="animate-charcter">Chiếc  lá nho nhỏ</div>
+      </div>
+    </div>
+  </foreignObject>
 </svg>
