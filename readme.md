@@ -39,13 +39,13 @@
 
 <div align="left">
 __________
-<img src="./image/languages/c.svg" width="32">
-<img src="./image/languages/cpp.svg" width="32">
-<img src="./image/languages/csharp.svg" width="32">
-<img src="./image/languages/css.svg" width="32">
-<img src="./image/languages/html.svg" width="32">
-<img src="./image/languages/javascript.svg" width="32">
-<img src="./image/languages/python.svg" width="32">
+<img src="./image/Languages/c.svg" width="32">
+<img src="./image/Languages/cpp.svg" width="32">
+<img src="./image/Languages/csharp.svg" width="32">
+<img src="./image/Languages/css.svg" width="32">
+<img src="./image/Languages/html.svg" width="32">
+<img src="./image/Languages/javascript.svg" width="32">
+<img src="./image/Languages/python.svg" width="32">
 __________
 </div>
 
