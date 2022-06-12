@@ -72,7 +72,23 @@ __________
 <h2 align="left">🛠️Others</h2>
 <div align="left">
 __________
-<img src="./image/Others/git.svg" width="36">
-<img src="./image/Data/mongodb.svg" width="36">
-<img src="./image/Data/microsoft-sql.svg" width="36">
+<img src="./image/Others/git.svg" width="32">
+<img src="./image/Others/github.svg" width="32">
+<img src="./image/Others/vscode.svg" width="32">
+<img src="./image/Others/postman.svg" width="32">
+<img src="./image/Others/figma.svg" width="32">
+<img src="./image/Others/jupyter.svg" width="32">
+</div>
+
+<h2 align="left"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats</h2>
+<div align="center">
+ _
+ <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2noScript&theme=dracula"/>
+</div>
+
+<div align="center">         
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2noScript&theme=dracula" width="24%"/>          
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2noScript&theme=dracula" width="24%"/>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2noScript&theme=dracula" width="24%"/>  
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2noScript&theme=dracula" width="24%"/>      
 </div>
