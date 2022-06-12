@@ -54,8 +54,25 @@ __________
 __________
 <img src="./image/Frontend/react.svg" width="32">
 </div>
+
 <h2 align="left">🖋️Backend</h2>
 <div align="left">
 __________
 <img src="./image/Backend/nodejs.svg" width="32">
+</div>
+
+<h2 align="left">🛰️Databases and cloud hosting</h2>
+<div align="left">
+__________
+<img src="./image/Data/mysql.svg" width="36">
+<img src="./image/Data/mongodb.svg" width="36">
+<img src="./image/Data/microsoft-sql.svg" width="36">
+</div>
+
+<h2 align="left">🛠️Others</h2>
+<div align="left">
+__________
+<img src="./image/Others/git.svg" width="36">
+<img src="./image/Data/mongodb.svg" width="36">
+<img src="./image/Data/microsoft-sql.svg" width="36">
 </div>
