@@ -27,11 +27,11 @@
     <li>🎓 Here is <a href="#">my personal website</a>
     <li>✍️There is <a href="#">my blog and articles</a>
     <li>❤️I'm passionate about:
-         <ul>
+         <!-- <ul>
           <li>🔐 Cyber Security
           <li>🪐 Operating Systems (Windows & Linux)
           <li>🖥️ Website Developer </>  
-        </ul>  
+        </ul>   -->
 </ul>        
 <hr>
 
@@ -39,8 +39,8 @@
 
 <div align="left">
 __________
-<img src="./image/Languages/c.svg" width="32">
-<img src="./image/Languages/cpp.svg" width="32">
+<!-- <img src="./image/Languages/c.svg" width="32"> -->
+<!-- <img src="./image/Languages/cpp.svg" width="32"> -->
 <img src="./image/Languages/csharp.svg" width="32">
 <img src="./image/Languages/css.svg" width="32">
 <img src="./image/Languages/html.svg" width="32">
