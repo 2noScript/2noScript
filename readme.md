@@ -1,26 +1,18 @@
-<!-- <img src='./image/text.svg' width="100%" alt="what"> -->
 <div align="center">
-<div align='left'>
-<!-- <img src='./image/banner/poto.png' width='220' > -->
-
-</div>
-
 <img src='./image/alias.svg' width="400">
-<!-- <img src='./test/2noscript.svg'> -->
 </div>
-
-<!-- <img src='image/banner.jpg' alt="top banner"> -->
 
 <div align="center" color="black">
 <a href="https://www.facebook.com/profile.php?id=100024072759238" target="_blank" >
 <img src='image/facebook.svg' width="40">
-<!-- </a><a href="https://www.instagram.com/2noscript" target="_blank" >
-<img src='image/instagram.svg' width="40"> -->
-</a><a href="https://www.tiktok.com/@2noscript" target="_blank" >
+</a>
+<a href="https://www.tiktok.com/@2noscript" target="_blank" >
 <img src='image/tiktok.svg' width="40">
-</a><a href="https://www.youtube.com/channel/UCBoON30jZ100O8m9DGUHWqQ" target="_blank" >
+</a>
+<a href="https://www.youtube.com/channel/UCBoON30jZ100O8m9DGUHWqQ" target="_blank" >
 <img src='image/youtube.svg' width="40">
-</a><a href="https://github.com/2noScript" target="_blank" >
+</a>
+<a href="https://github.com/2noScript" target="_blank" >
 <img src='image/github.svg' width="40">
 </a>
 <div>
@@ -30,9 +22,6 @@
 <h3>
 <ul align="left">
     <li>👀I'm from VietNam
-    <!-- <li>🎓 Here is <a href="#">my personal website</a>
-    <li>✍️There is <a href="#">my blog and articles</a>
-     -->
     <li>🏘️ I live in Hung Yen
      <li>🕋 Studying at Hanoi University of Science and Technology
     <li>❤️I'm passionate about:
