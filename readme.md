@@ -21,16 +21,18 @@
 <h1 align="left">🤖whoami
 <h3>
 <ul align="left">
-    <li>👀I'm from VietNam
-    <li>🏘️ I live in Hung Yen
-     <li>🕋 Studying at Hanoi University of Science and Technology
+    <li>👀I'm from VietNam </li>
+    <li>🏘️ I live in Hung Yen</li>
+     <li>🕋 Studying at Hanoi University of Science and Technology</li>
     <li>❤️I'm passionate about:
          <ul>
-          <li>🔐 Cyber Security
-          <li>🪐 Operating Systems (Windows & Linux)
-          <li>🖥️ Website Developer </>       
+          <li>🔐 Cyber Security</li>
+          <li>🪐 Operating Systems (Windows & Linux)</li>
+          <li>🖥️ Website Developer </> </li>      
         </ul>  
-</ul>        
+    </li>
+</ul> 
+</h3>       
 <hr>
 
 <h2 align="left"> 👨🏻‍💻Languages & developer</h2>
