@@ -3,16 +3,16 @@
 </div>
 
 <div align="center" color="black">
-<a href="https://www.facebook.com/profile.php?id=100024072759238" target="_blank" >
+<a href="https://www.facebook.com/profile.php?id=100024072759238">
 <img src='image/facebook.svg' width="24">
 </a>
-<a href="https://www.tiktok.com/@2noscript" target="_blank" >
+<a href="https://www.tiktok.com/@2noscript"  >
 <img src='image/tiktok.svg' width="24">
 </a>
-<a href="https://www.youtube.com/channel/UCBoON30jZ100O8m9DGUHWqQ" target="_blank" >
+<a href="https://www.youtube.com/channel/UCBoON30jZ100O8m9DGUHWqQ"  >
 <img src='image/youtube.svg' width="24">
 </a>
-<a href="https://github.com/2noScript" target="_blank" >
+<a href="https://github.com/2noScript"  >
 <img src='image/github.svg' width="24">
 </a>
 </div>
