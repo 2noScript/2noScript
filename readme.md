@@ -30,3 +30,5 @@
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2noScript&theme=dracula" width="24%"/>
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2noScript&theme=dracula" width="24%"/>
 </div> -->
+
+![snake gif](https://github.com/2noScript/2noScript/blob/output/github-contribution-grid-snake.gif)
