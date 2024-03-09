@@ -17,7 +17,9 @@
 </a>
 </div>
 
-> **<em>Hello🎭! I'm 2noScript, your friendly neighborhood developer from the vibrant landscapes of Vietnam. My coding journey is fueled by a love for making open source more accessible, crafting tech solutions that dive into the intricacies of evaluating people, and building communities that feel like a second home.When it comes to work, I'm the go-getter who loves taking the lead. Give me responsibilities, and I'll handle them with a mix of honesty and wholehearted dedication. Adaptability is my secret sauce, and I'm not just about getting the job done – I'm here to create experiences that make work feel like an adventure .So, if you're up for a collaboration that's not just about code but about crafting something memorable, let's connect and bring some tech magic to the table! 🚀.</em>**
+<!-- > **<em>Hello🎭! I'm 2noScript, your friendly neighborhood developer from the vibrant landscapes of Vietnam.</em>** -->
+
+> **<em>Any fool can write code that a computer can understand. Good programmers write code that humans can understand. Programmers write code that not only humans can comprehend effortlessly but also transforms complex problems into elegant solutions</em>**
 
 <!-- <h2 align="left"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats</h2>
 <div align="center">
@@ -30,5 +32,18 @@
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2noScript&theme=dracula" width="24%"/>
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2noScript&theme=dracula" width="24%"/>
 </div> -->
+<!-- 
+![snake gif](https://github.com/2noScript/2noScript/blob/output/github-contribution-grid-snake-dark.svg)
+ -->
 
-![snake gif](https://github.com/2noScript/2noScript/blob/output/github-contribution-grid-snake.gif)
+
+   
+>    🔭 I’m currently working on ...
+     🌱 I’m currently learning ...
+     👯 I’m looking to collaborate on ...
+     🤔 I’m looking for help with ...
+     💬 Ask me about ...
+     📫 How to reach me: ...
+     😄 Pronouns: ...
+     ⚡ Fun fact: ...
+
